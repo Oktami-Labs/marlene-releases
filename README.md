@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
-  <img src=".github/banner-light.svg" alt="Marlene, a local-first AI email assistant">
+  <img src=".github/banner-light.svg" alt="Marlene, the AI agent that works in all your tools">
 </picture>
 
 A local-first AI email assistant. It reads, drafts, and organizes mail from

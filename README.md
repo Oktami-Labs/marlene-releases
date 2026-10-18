@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
-  <img src=".github/banner-light.svg" alt="Marlen, a local-first AI email assistant">
+  <img src=".github/banner-light.svg" alt="Marlene, a local-first AI email assistant">
 </picture>
 
 A local-first AI email assistant. It reads, drafts, and organizes mail from
@@ -16,7 +16,7 @@ tags and release links are preserved.
 ## Download
 
 Grab the macOS or Windows installer from the
-[latest release](https://github.com/Oktami-Labs/marlen/releases/latest), or from
+[latest release](https://github.com/Oktami-Labs/marlene-releases/releases/latest), or from
 [marlen.email](https://marlen.email), which always points at it.
 
 - **macOS, Apple Silicon.** Current releases are signed and notarized. If you
@@ -27,7 +27,7 @@ Grab the macOS or Windows installer from the
 
 ## Problems and requests
 
-Open an [issue](https://github.com/Oktami-Labs/marlen/issues). Include the
+Open an [issue](https://github.com/Oktami-Labs/marlene-releases/issues). Include the
 version from Settings → About, which also has "Check for updates".
 
 ## License
